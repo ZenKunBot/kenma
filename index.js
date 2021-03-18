@@ -62,9 +62,9 @@ const { ind } = require('./bahasa')
 /********** MENU SETTING **********/
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:Yogiツ\n' //ganti nama lu! 
+            + 'FN:Kenma\n' //ganti nama lu! 
             + 'ORG: Owner XYTOD-Bot;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=6283152753417:+62 83152753417\n'  //ganti nomor lu! 
+            + 'TEL;type=CELL;type=VOICE;waid=6281216563395:+62 81216563395\n'  //ganti nomor lu! 
             + 'END:VCARD'
 prefix = '#'
 blocked = []   
@@ -73,8 +73,9 @@ memberlimit = 1
 cr = '*XYTOD BOT*'
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["6283152753417@s.whatsapp.net"]   //ganti nomor lu! 
-const pacarNumber = ["6285353569715@s.whatsapp.net"]  //ganti nomor lu!  
+const ownerNumber = ["6281216563395@s.whatsapp.net"]   //ganti nomor lu! 
+const adminNumber = ["6281233594293@s.whatsapp.net"]  //ganti nomor lu!  
+const admin2Number = ["62895320308385@s.whatsapp.net"]
 /************************************/
 
        
